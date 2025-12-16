@@ -1,4 +1,4 @@
-name: Terraform VPC Deployment
+name: Terraform S3 and Dynamo DB Deployment
 
 on:
   push:
